@@ -1,0 +1,17 @@
+main{
+    background-color: #f5f6f8bb !important;
+    height: 100vh;
+}
+
+main header{
+    align-items: start;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+main header h2{
+    font-size: calc(1.325rem + .9vw);
+    font-weight: 500;
+    line-height: 1.2;
+}
